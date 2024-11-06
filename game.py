@@ -13,7 +13,7 @@ def resource_path(relative_path):
         base_path = os.path.abspath(".") 
     return os.path.join(base_path, relative_path) 
 
-video_path = resource_path(r"C:\個人資料\game\istockphoto.mp4") # 載入背景影片 
+video_path = resource_path("istockphoto.mp4") # 載入背景影片 
 font_path = resource_path("Qualy/Qualy/Qualy-Bold-2.ttf")
 # 確保在程式中引用正確的路徑 
 font = pygame.font.Font(font_path, 20)
