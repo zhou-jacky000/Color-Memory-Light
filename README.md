@@ -31,6 +31,9 @@
 1. 下載或克隆本項目到本地端：
    ```bash
    git clone https://github.com/your_username/memory_game.git
+2. 進入專案資料夾並安裝所需的第三方套件：
+    ```bash
+    pip install -r requirements.txt
 
 ## 使用方法
 1. 執行主程式 memory_game.py：
