@@ -28,7 +28,7 @@
 
 ## 安裝方式
 
-1. 下載或克隆本項目到本地端：
+1. 下載或Clone項目到本地端：
    ```bash
    git clone https://github.com/your_username/memory_game.git
 2. 進入專案資料夾並安裝所需的第三方套件：
